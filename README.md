@@ -1,5 +1,6 @@
 ### Hi, welcome to my Github!
 <img align="right" src="https://github.com/user-attachments/assets/cfe1bf08-2dce-4394-8a6f-f04daee6bd8f" width="370" />
+<img src="https://raw.githubusercontent.com/sh7dow/sh7dow/main/embed.svg" width="500" />
 
 - 🐍 Currently studying Python
 - 💻 I plan to work in back-end development
@@ -18,3 +19,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh7dow/sh7dow/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sh7dow/sh7dow/output/github-contribution-grid-snake.svg" />
 </picture>
+
+

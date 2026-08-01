@@ -1,5 +1,5 @@
 ### Hi, welcome to my Github!
-<img align="right" src="https://github.com/user-attachments/assets/cfe1bf08-2dce-4394-8a6f-f04daee6bd8f" width="450" />
+<img align="right" src="https://github.com/user-attachments/assets/cfe1bf08-2dce-4394-8a6f-f04daee6bd8f" width="400" />
 
 - 🐍 Currently studying Python
 - 💻 I plan to work in back-end development

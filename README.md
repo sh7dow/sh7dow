@@ -5,7 +5,7 @@
 - 💻 I plan to work in back-end development
 - ☕ My next step is JavaScript
 
-<img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="370" />
+<img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />
 
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://github.com/sh7dow/python-studies) [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1263987983418134611)

@@ -1,5 +1,5 @@
 <svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="500" height="200" rx="6" fill="#2b2d31"/>
+  <rect x="0" y="0" width="500" height="200" rx="6" fill="transparent"/>
   <rect x="0" y="0" width="4" height="200" fill="#00ffff"/>
   <text x="24" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#00ffff">Hi, welcome to my Github!</text>
   <text x="24" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#dbdee1">

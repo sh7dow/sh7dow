@@ -4,6 +4,7 @@
 - 🐍 Currently studying Python
 - 💻 I plan to work in back-end development
 - ☕ My next step is JavaScript
+- 📫 How to reach me: Discord (3kx0) u have my badge too, just click!
 
 <img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />

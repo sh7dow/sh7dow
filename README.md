@@ -8,4 +8,3 @@
 <img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="435" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />
 
-![Snake animation](https://github.com/sh7dow/sh7dow/blob/output/github-contribution-grid-snake.svg)

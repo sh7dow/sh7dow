@@ -1,4 +1,4 @@
-### About me
+## About me
 I'm learning to code through online resources, currently focused on **Python**, with **Java** as my next step. I always aim to write clean, understandable code.
 
 I'm planning to work in **back-end** development or **cybersecurity**, i really enjoy coding and want to turn it into my career.

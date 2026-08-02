@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/9WSPpG7fJWgAAAAC/beautiful.gif" width="650" height="325" />
+<img width="650" height="300" alt="Image" src="https://github.com/user-attachments/assets/272da2ea-4233-489c-b120-06063e6ad5ec" />
 
 </div>
 

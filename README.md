@@ -20,7 +20,6 @@ I've been **coding** since 22/04/2026. I like building small projects and extra 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
 
 </div>
 

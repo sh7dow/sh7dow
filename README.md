@@ -2,6 +2,8 @@
 
 Im studying coding in internet, the actual language im studying is Python, and my next step is Java, always making clean code and understable. I plan to work in backend, or in cybersecurity. I like too much to code and i want to make it my job.
 
+I've been coding since 22/04/2026, i always like to make some small projects, and additional exercises beyond the ones in my course to practice my logic and knowledge about the language im studying. I think the practice is one of the best ways to learn a language, because thats working with me.
+
 <img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />
 

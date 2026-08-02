@@ -20,7 +20,7 @@ I've been coding since 22/04/2026. I like building small projects and extra exer
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white)
 </div>
 
 ## Connect with Me

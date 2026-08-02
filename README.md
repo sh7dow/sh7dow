@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img width="650" height="300" alt="Image" src="https://github.com/user-attachments/assets/3737f537-10ec-4350-8167-72eb3d7e3735" />
+<img width="700" height="350" alt="anime" src="https://github.com/user-attachments/assets/5acb212b-d966-4269-89b9-a3e6c2fbc8bb" />
 
 </div>
 

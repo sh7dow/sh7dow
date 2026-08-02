@@ -1,9 +1,6 @@
-### Im Gabriel! Welcome to my profile.
+### About me
 
-- 🐍 Im studying Python.
-- 💻 Planning to work in Back-End.
-- 💼 I love coding and i want to work in it.
-- 🗣 My english level is intermediary.
+Im studying coding in internet, the actual language im studying is Python, and my next step is Java, always making clean code and understable. I plan to work in backend, or in cybersecurity. I like too much to code and i want to make it my job.
 
 <img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />

@@ -1,4 +1,11 @@
+<div align="center">
+
+<img src="https://media1.tenor.com/m/9WSPpG7fJWgAAAAC/beautiful.gif" width="650" height="325" />
+
+</div>
+
 ## About me
+
 I'm learning to code through online resources, currently focused on **Python**, with **Java** as my next step. I always aim to write clean, understandable code.
 
 I'm planning to work in **back-end** development or **cybersecurity**, i really enjoy coding and want to turn it into my career.

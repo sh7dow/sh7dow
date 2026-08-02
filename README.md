@@ -14,7 +14,7 @@ I'm planning to work in **back-end** development or **cybersecurity**, i really 
 I've been **coding** since 22/04/2026. I like building small projects and extra exercises beyond my course material, to practice my logic and knowledge of the **language** I'm studying. I believe practice is one of the **best** ways to learn, it's what works **best** for me.
 
 ## Activity
-[![sh7dow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sh7dow&custom_title=sh7dow's%20Contribution%20Graph&bg_color=00000000&color=ffffff&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/sh7dow)
+[![sh7dow's Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=sh7dow&custom_title=sh7dow's%20Contribution%20Graph&bg_color=00000000&color=ffffff&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/sh7dow)
 
 <div align="center">
 

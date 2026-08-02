@@ -1,4 +1,9 @@
-<img src="https://raw.githubusercontent.com/sh7dow/sh7dow/main/embed.svg?v=2" width="450" />
+### Im Gabriel! Welcome to my profile.
+
+🐍 - Im studying Python.
+💻 - Planning to work in Back-End.
+💼 - I love coding and i want to work in it.
+🗣 - My english level is intermediary.
 
 <img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />

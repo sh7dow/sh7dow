@@ -1,20 +1,35 @@
 ### About me
+I'm learning to code through online resources, currently focused on **Python**, with **Java** as my next step. I always aim to write clean, understandable code.
 
-Im studying coding in internet, the actual language im studying is Python, and my next step is Java, always making clean code and understable. I plan to work in backend, or in cybersecurity. I like too much to code and i want to make it my job.
+I'm planning to work in **back-end** development or **cybersecurity** — I really enjoy coding and want to turn it into my career.
 
-I've been coding since 22/04/2026, i always like to make some small projects, and additional exercises beyond the ones in my course to practice my logic and knowledge about the language im studying. I think the practice is one of the best ways to learn a language, because thats working with me.
+I've been coding since 22/04/2026. I like building small projects and extra exercises beyond my course material, to practice my logic and knowledge of the language I'm studying. I believe practice is one of the best ways to learn — it's what works best for me.
 
-<img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="450" />
+[![sh7dow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sh7dow&custom_title=sh7dow's%20Contribution%20Graph&bg_color=00000000&color=ffffff&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/sh7dow)
 
-[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://github.com/sh7dow/python-studies) [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1263987983418134611)
+<table>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="480" /></td>
+  </tr>
+</table>
 
-[![Discord](https://img.shields.io/badge/DISCORD-SH7DOW-24292e?labelColor=5865F2&logo=discord&logoColor=white)](https://discord.com/users/1263987983418134611)
+## Skills
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+## Connect with Me
+<div align="center">
+
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1263987983418134611)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh7dow/sh7dow/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh7dow/sh7dow/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sh7dow/sh7dow/output/github-contribution-grid-snake.svg" />
 </picture>
-
-

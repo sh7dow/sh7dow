@@ -4,15 +4,16 @@ I'm learning to code through online resources, currently focused on **Python**, 
 I'm planning to work in **back-end** development or **cybersecurity** — I really enjoy coding and want to turn it into my career.
 
 I've been coding since 22/04/2026. I like building small projects and extra exercises beyond my course material, to practice my logic and knowledge of the language I'm studying. I believe practice is one of the best ways to learn — it's what works best for me.
-
+## Activity
 [![sh7dow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sh7dow&custom_title=sh7dow's%20Contribution%20Graph&bg_color=00000000&color=ffffff&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/sh7dow)
 
-<table>
-  <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" /></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh7dow&layout=compact&bg_color=00000000&title_color=00ffff&text_color=ffffff" width="480" /></td>
-  </tr>
-</table>
+<div align="center">
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=sh7dow&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=ff6ac1" width="450" />
+
+</div>
 
 ## Skills
 <div align="center">
